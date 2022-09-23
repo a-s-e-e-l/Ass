@@ -6040,11 +6040,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aseel\\source\\repos\\Quiz\\Quiz\\Quiz.csproj",
+      "projectUniqueName": "C:\\Users\\Aseel\\source\\repos\\Ass\\Quiz\\Quiz\\Quiz.csproj",
       "projectName": "Quiz",
-      "projectPath": "C:\\Users\\Aseel\\source\\repos\\Quiz\\Quiz\\Quiz.csproj",
+      "projectPath": "C:\\Users\\Aseel\\source\\repos\\Ass\\Quiz\\Quiz\\Quiz.csproj",
       "packagesPath": "C:\\Users\\Aseel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aseel\\source\\repos\\Quiz\\Quiz\\obj\\",
+      "outputPath": "C:\\Users\\Aseel\\source\\repos\\Ass\\Quiz\\Quiz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aseel\\AppData\\Roaming\\NuGet\\NuGet.Config",
